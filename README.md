@@ -31,4 +31,4 @@ Execute o programa:
 - Se o segundo parâmetro for menor ou igual ao primeiro, uma mensagem de erro é exibida: "O segundo parâmetro deve ser maior que o primeiro".
 Contribuição
 
-#Sinta-se à vontade para contribuir com este projeto. Abra uma issue ou envie um pull request com suas sugestões de melhorias.
+# Sinta-se à vontade para contribuir com este projeto. Abra uma issue ou envie um pull request com suas sugestões de melhorias.
