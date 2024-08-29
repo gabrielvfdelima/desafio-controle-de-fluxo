@@ -1,28 +1,28 @@
-#Contador
+# Contador
 ##Descrição
 Este é um simples programa Java que solicita ao usuário dois números inteiros e conta de forma crescente do primeiro ao segundo número, imprimindo cada número no console.
 
-###Funcionalidades
+### Funcionalidades
 - Solicita dois números inteiros ao usuário
 - Valida se o segundo número é maior que o primeiro
 - Conta e imprime os números entre o primeiro e o segundo parâmetro (inclusive)
 - Trata exceções para parâmetros inválidos
 
-###Pré-requisitos
+### Pré-requisitos
 - Java Development Kit (JDK) instalado
 
-###Como executar
+### Como executar
 - Compile o arquivo Java:
 - javac Contador.java
 Execute o programa:
 - java Contador
 - Siga as instruções no console para inserir os dois parâmetros.
   
-###Estrutura do código
+### Estrutura do código
 - Contador.java: Contém a classe principal e a lógica do programa
 -ParametrosInvalidosException: exceção personalizada
 
-###Funcionamento
+### Funcionamento
 - O programa solicita ao usuário que digite dois números inteiros.
 - Se o segundo número for menor ou igual ao primeiro, uma exceção ParametrosInvalidosException é lançada.
 - Se os parâmetros forem válidos, o programa conta do primeiro ao segundo número, imprimindo cada número.
