@@ -1,5 +1,5 @@
 # Contador
-##Descrição
+## Descrição
 Este é um simples programa Java que solicita ao usuário dois números inteiros e conta de forma crescente do primeiro ao segundo número, imprimindo cada número no console.
 
 ### Funcionalidades
